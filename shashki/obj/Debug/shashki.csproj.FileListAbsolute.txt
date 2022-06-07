@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.Form1.resources
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.Properties.Resources.resources
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.csproj.GenerateResource.cache
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.Resource1.resources
+C:\Users\user\Desktop\shashki\shashki\bin\Debug\shashki.exe.config
+C:\Users\user\Desktop\shashki\shashki\bin\Debug\shashki.exe
+C:\Users\user\Desktop\shashki\shashki\bin\Debug\shashki.pdb
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.exe
+C:\Users\user\Desktop\shashki\shashki\obj\Debug\shashki.pdb
